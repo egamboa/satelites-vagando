@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-06-10
+date: 2011-08-28
 title:  2 manos, 1000 canas y una canción
 categories: poesía
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-06-10
+date: 2012-03-04
 title: Acéldama, Elisa y El Colgado
 categories: poesía
 ---

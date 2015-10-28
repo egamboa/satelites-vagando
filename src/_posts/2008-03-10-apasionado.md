@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-06-10
+date: 2008-03-10
 title:  Apasionado
 categories: poesía
 --- 
@@ -12,6 +12,7 @@ hoy con respecto a mi,
 será lo único que quiera.  
 
 <!--more-->
+
 Se me fueron oxidando los miedos  
 en todos nosotros crecen sus semillas  
 están en las noticias de la mañana  
